@@ -1,7 +1,7 @@
 Summary:	Versatile and flexible Swing and SWT layout manager
 Name:		miglayout
 Version:	3.7.4
-Release:	1
+Release:	2
 License:	BSD-like
 Group:		Development/Languages/Java
 Source0:	%{name}-%{version}.tar.gz
